@@ -1,4 +1,4 @@
-# The ISO (Mac) keymap for Durgod Taurus K320.
+# 9600org's twaked ISO (Mac) keymap for Durgod Taurus K320.
 
 Layer 0 : Standard ISO 88 Keys TKL layout (Mac)
 
